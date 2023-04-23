@@ -1,0 +1,11 @@
+decesion tree regressor
+mean: 4.10361682168733
+std: 0.8578225157744735
+
+linear regresson
+mean: 4.908821563266912
+std: 1.0578202690240386
+
+random forest regressor
+mean: 3.1399002066895045
+std: 0.8749353393290364
